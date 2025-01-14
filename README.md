@@ -31,8 +31,6 @@
 | PA-Design   | Sunday 01/20 11:59PM |
 | PA-Final    | Monday 01/27 11:59PM |
 
-[<h2>⬆ Back To Top ⬆</h2>](#table-of-contents)
-
 ---
 
 ## `II. RESOURCES`
@@ -48,8 +46,6 @@
     - File -> Settings -> Plugins -> Marketplace: Then search and install `diagrams.net`.
     - Update the flowchart of your project using [`Flow Chart`](flowchart.drawio.svg).
 
-[<h2>⬆ Back To Top ⬆</h2>](#table-of-contents)
-
 ---
 
 ## `III. PROBLEM`
@@ -61,8 +57,6 @@ You are creating a text-based choose-your-own-adventure game! In this game:
 - The user provides input that affects the path of the story.
 - Your game must meet the requirements outlined in the specifications below.
 
-[<h2>⬆ Back To Top ⬆</h2>](#table-of-contents)
-
 ---
 
 ## `IV. PURPOSE OF THE ASSIGNMENT`
@@ -73,7 +67,7 @@ The purpose of this assignment is to give you:
 3. An opportunity to use branching.
 4. A chance to be creative.
 
-[<h2>⬆ Back To Top ⬆</h2>](#table-of-contents)
+[<h2>⬆ Back To Top ⬆</h2>](#i-deadlines)
 
 ---
 
@@ -95,7 +89,7 @@ The first stage of your programming assignment is the **requirements analysis**.
 
 **⚠️ The game must be logical and have an understandable story. Your professor will read the entire story. ⚠️**
 
-[<h2>⬆ Back To Top ⬆</h2>](#table-of-contents)
+
 
 ---
 
@@ -110,8 +104,6 @@ The second stage is to design your solution based on the requirements:
 
 **💡 Inspiration**: Use books or movies you enjoy to create an original story.  
 **See example algorithms in [DESIGN_EXAMPLE.md](DESIGN_EXAMPLE.md).**
-
-[<h2>⬆ Back To Top ⬆</h2>](#table-of-contents)
 
 ---
 
@@ -128,7 +120,7 @@ After completing your design, follow these steps:
 
 **⛔️ Testing Tip**: Your flowchart should make each path clear.
 
-[<h2>⬆ Back To Top ⬆</h2>](#table-of-contents)
+[<h2>⬆ Back To Top ⬆</h2>](#i-deadlines)
 
 ---
 
@@ -153,8 +145,6 @@ Follow these style guidelines:
 4. **Documentation**: Add comments for clarity.
 5. **Git usage**: Commit after milestones with meaningful messages. Avoid a single commit for the entire project.
 
-
-[<h2>⬆ Back To Top ⬆</h2>](#i-deadlines)
 
 ## `IX. SUBMISSIONS`
 
