@@ -8,6 +8,7 @@
   * [`Table Example`](#table-example)
   * [`Code`](#code)
   * [`Horizontal Rule`](#horizontal-rule)
+  * [`Symbols`](#symbols)
   * [`Encrypt your File`](#encrypt-your-file)
 <!-- TOC -->
 
@@ -50,18 +51,21 @@
   `This is inline code.`
 
 - **Code Block**:
-```python
-print('Hello World')
-print('CS151')
+```java
+public static void main(String[] args) {
+    System.out.println("Hello CS212");
+}
 ```
 
 ## `Horizontal Rule`
 
 ---
 
+## `Symbols`
+✅✳️⬅️➡️⏺️🔼🟢🟡🔴🔵🟣🟠⛔️🟥🔶🔻🔺❌‼️❕
 
 ## `Encrypt your File`
 
 ```bash
-java ./FET.java
+java FET.java
 ```
